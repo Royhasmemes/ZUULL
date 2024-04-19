@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\zuulll\bin\Debug\net8.0\Zuul.exe
+C:\Users\User\Desktop\zuulll\bin\Debug\net8.0\Zuul.deps.json
+C:\Users\User\Desktop\zuulll\bin\Debug\net8.0\Zuul.runtimeconfig.json
+C:\Users\User\Desktop\zuulll\bin\Debug\net8.0\Zuul.dll
+C:\Users\User\Desktop\zuulll\bin\Debug\net8.0\Zuul.pdb
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.AssemblyInfo.cs
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.dll
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\refint\Zuul.dll
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.pdb
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\Zuul.genruntimeconfig.cache
+C:\Users\User\Desktop\zuulll\obj\Debug\net8.0\ref\Zuul.dll
